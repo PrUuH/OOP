@@ -1,0 +1,15 @@
+D:/с++/1b-cmake/build/CMakeFiles/main.dir
+D:/с++/1b-cmake/build/CMakeFiles/main_test.dir
+D:/с++/1b-cmake/build/CMakeFiles/INSTALL.dir
+D:/с++/1b-cmake/build/CMakeFiles/ALL_BUILD.dir
+D:/с++/1b-cmake/build/CMakeFiles/ZERO_CHECK.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/CMakeFiles/INSTALL.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/CMakeFiles/ALL_BUILD.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googlemock/CMakeFiles/INSTALL.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googlemock/CMakeFiles/ALL_BUILD.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googletest/CMakeFiles/INSTALL.dir
+D:/с++/1b-cmake/build/_deps/googletest-build/googletest/CMakeFiles/ALL_BUILD.dir

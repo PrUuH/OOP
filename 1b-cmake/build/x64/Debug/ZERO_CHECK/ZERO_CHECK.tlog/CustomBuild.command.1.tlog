@@ -1,0 +1,10 @@
+^D:\С++\1B-CMAKE\BUILD\CMAKEFILES\55E21C54E958C7CDE787943ACF0237D4\GENERATE.STAMP.RULE
+setlocal
+D:\VisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/с++/1b-cmake -BD:/с++/1b-cmake/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/с++/1b-cmake/build/CircularBufferTest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

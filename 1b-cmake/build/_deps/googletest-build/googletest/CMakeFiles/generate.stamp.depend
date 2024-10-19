@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPython.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPython/Support.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindThreads.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+D:/с++/1b-cmake/build/_deps/googletest-src/googletest/CMakeLists.txt
+D:/с++/1b-cmake/build/_deps/googletest-src/googletest/cmake/Config.cmake.in
+D:/с++/1b-cmake/build/_deps/googletest-src/googletest/cmake/gtest.pc.in
+D:/с++/1b-cmake/build/_deps/googletest-src/googletest/cmake/gtest_main.pc.in
+D:/с++/1b-cmake/build/_deps/googletest-src/googletest/cmake/internal_utils.cmake
