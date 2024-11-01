@@ -1,0 +1,4 @@
+/mnt/d/с++/lesson3/CMakeFiles/time.dir
+/mnt/d/с++/lesson3/CMakeFiles/time_executable.dir
+/mnt/d/с++/lesson3/CMakeFiles/edit_cache.dir
+/mnt/d/с++/lesson3/CMakeFiles/rebuild_cache.dir

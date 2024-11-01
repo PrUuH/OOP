@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/d/с++/lesson3/time_test[1]_tests.cmake")
+  include("/mnt/d/с++/lesson3/time_test[1]_tests.cmake")
+else()
+  add_test(time_test_NOT_BUILT time_test_NOT_BUILT)
+endif()
