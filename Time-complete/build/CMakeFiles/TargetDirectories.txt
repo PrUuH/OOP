@@ -1,0 +1,4 @@
+D:/с++/lesson3/build/CMakeFiles/time.dir
+D:/с++/lesson3/build/CMakeFiles/time_executable.dir
+D:/с++/lesson3/build/CMakeFiles/ALL_BUILD.dir
+D:/с++/lesson3/build/CMakeFiles/ZERO_CHECK.dir
