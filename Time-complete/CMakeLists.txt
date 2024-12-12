@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.11 FATAL_ERROR)
 # GoogleTest requires at least C++14
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-option(BUILD_TESTS "Build the tests" OFF)
+ 
+option(BUILD_TESTS "Build the tests" OFF) # разобраться - cmake -S. -Bbuild -DBUILD_TESTS=ON и соотв. cmake -S. -Bbuild -DBUILD_TESTS=OFF
 
 # Добавляем библиотеку time
 add_library(time time.cpp)

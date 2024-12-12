@@ -1,0 +1,6 @@
+#N My Universe
+#B3/S23
+sS 10 10
+ 1
+2 1
+3 1

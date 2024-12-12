@@ -1,14 +1,14 @@
 # Target labels
  googletest-populate
 # Source files and their labels
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/74cde61d017ef7e67c76e90c0518b903/googletest-populate.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/f33af9e8958704c182db35d23556b9ac/googletest-populate-complete.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-build.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-configure.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-download.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-install.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-mkdir.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-patch.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-test.rule
-D:/с++/lesson3/build/_deps/googletest-subbuild/CMakeFiles/1ebf62f8a2402c23ac608f4271344ff5/googletest-populate-update.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/mnt/d/с++/Time-complete/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

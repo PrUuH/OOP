@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/main_test.dir/link.d CMakeFiles/main_test.dir/test.cpp.o -o /mnt/d/с++/conwayGaem/main_test  libmain.a lib/libgtest_main.a lib/libgtest.a

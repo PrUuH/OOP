@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/time_test.dir/link.d CMakeFiles/time_test.dir/test_time.cpp.o -o time_test  libtime.a lib/libgtest_main.a lib/libgtest.a

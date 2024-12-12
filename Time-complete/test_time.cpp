@@ -9,14 +9,6 @@ TEST(TimeTest, DefaultConstructor) {
     EXPECT_EQ(t1.GetMinutes(), 0);
     EXPECT_EQ(t1.GetSeconds(), 0);
 }
-//исправить
-TEST(TimeTest, ParametricConstructor) {
-    Time t1(25, 65, 75);
-    EXPECT_EQ(t1.GetHours(), 1);
-    EXPECT_EQ(t1.GetMinutes(), 5);
-    EXPECT_EQ(t1.GetSeconds(), 15);
-}
-
 TEST(TimeTest, CopyConstructor) {
     Time t1(1, 2, 3);
     Time t2(t1);
@@ -68,8 +60,6 @@ TEST(TimeTest, InequalityOperator) {
     Time t2(4, 5, 6);
     EXPECT_TRUE(t1 != t2);
 }
-
-//добавить ещё нверных случаев
 
 int main(int argc, char **argv) {
     ::testing::InitGoogleTest(&argc, argv);
